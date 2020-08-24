@@ -3,4 +3,4 @@ Steps involved:
 1. Select a target repo for forking.
 2. Navigate to the fork button in that repo.
 3. Fork it to the target account.
-4. Clone it using git bash or using desktop ( a simple download to the local system)
+4. Clone it using git bash or just ( a simple download to the local system)
